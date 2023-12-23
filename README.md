@@ -1,4 +1,8 @@
 # Tweets-Sentiment-Analysis-
+
+Team members : SAFAA OUAHIB & THOMAS HARBERT
+
+
 Tweets sentiment Analysis using LSTM & BERT
 
 Le traitement automatique de la langue est un domaine multidisciplinaire impliquant la
@@ -38,4 +42,4 @@ This repository contains the code for a sentiment analysis model using BERT (Bid
 
 
 Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/repository.git
+git clone https://github.com/RavenMorgan/Tweets-Sentiment-Analysis-/tree/main

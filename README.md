@@ -1,9 +1,7 @@
 # Tweets-Sentiment-Analysis-
-
 Team members : SAFAA OUAHIB & THOMAS HARBERT
 
-
-Tweets sentiment Analysis using LSTM & BERT
+## Tweets sentiment Analysis using LSTM & BERT
 
 Le traitement automatique de la langue est un domaine multidisciplinaire impliquant la
 linguistique, l'informatique et l'intelligence artificielle. Il vise à créer des outils de traitement de
@@ -17,29 +15,37 @@ et à évaluer le meilleur d’entre eux.
 Dataset est le site Kaggle:
 training.1600000.processed.noemoticon.csv
 
-**LSTM Overview: 
+## PREREQUISITE
 
-1. Import et load dataset
-2. Data processing
-3. Tokenization
-    Padding
-    Data splitting
-    Encoder
-3. Embedding
-4. Modeling
-5. Evaluation
+
+## LSTM
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RavenMorgan/Tweets-Sentiment-Analysis-/blob/main/Sentiments_Analysis_with_LSTM_Model.ipynb)
+
+### Overview: 
+1) *Import et load dataset*
+2) *Data processing*
+    1) *Tokenization*
+    2) *Padding*
+    3) *Data splitting*
+    4) *Encoder*
+7) *Embedding*
+8) *Modeling*
+9) *Evaluation*
    
-**BERT: 
-Overview : 
+## BERT: 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RavenMorgan/Tweets-Sentiment-Analysis-/blob/main/Sentiments_Analysis_with_BERT_Model.ipynb)
+### Overview : 
 
 This repository contains the code for a sentiment analysis model using BERT (Bidirectional Encoder Representations from Transformers). The model is trained on a dataset for sentiment classification.
 
-1. Data preparing 
-2. Tokenization
-3. Model Training ( a small version of BERT Model  for sequenceClassificaton )
-4. Evaluation (accuracy = 0.97 , loss = 0.10)
-5. Interference / predictions
+1) Data preparing 
+2) Tokenization
+3) Model Training ( a small version of BERT Model  for sequenceClassificaton )
+4) Evaluation (accuracy = 0.97 , loss = 0.10)
+5) Interference / predictions
 
-
+## How to use
 Clone the repository to your local machine using the following command:
 git clone https://github.com/RavenMorgan/Tweets-Sentiment-Analysis-/tree/main

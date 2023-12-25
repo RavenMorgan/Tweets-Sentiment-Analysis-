@@ -51,8 +51,25 @@ Cliquez sur le bouton "Ouvrir dans Colab" et suivez les instructions sur le note
 Vous pouvez également cloner le dépôt sur votre machine locale en utilisant la commande suivante :
 git clone https://github.com/RavenMorgan/Tweets-Sentiment-Analysis-.git
 
+### Résultats :
 
-   
+Visualisation graphique de la précision et de la perte :
+![image](https://github.com/RavenMorgan/Tweets-Sentiment-Analysis-/assets/93980956/a2b80c1f-4f1f-4790-8b3b-3d5cb6fe9af9)
+
+Matrice de confusion :
+![image](https://github.com/RavenMorgan/Tweets-Sentiment-Analysis-/assets/93980956/96e12e73-b57c-4ec7-98f7-c5d71380572c)
+
+Scores :
+|           | Precision | Recall | F1-Score | Support  |
+|-----------|-----------|--------|----------|----------|
+| Class 0   |   0.79    |  0.78  |   0.78   | 160542   |
+| Class 1   |   0.78    |  0.79  |   0.78   | 159458   |
+|-----------|-----------|--------|----------|----------|
+| Accuracy  |           |        |   0.78   | 320000   |
+| Macro Avg |   0.78    |  0.78  |   0.78   | 320000   |
+| Weighted Avg | 0.78    |  0.78  |   0.78   | 320000   |
+
+
 ## BERT: 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RavenMorgan/Tweets-Sentiment-Analysis-/blob/main/Sentiments_Analysis_with_BERT_Model.ipynb)

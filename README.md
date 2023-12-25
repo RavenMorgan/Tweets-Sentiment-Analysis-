@@ -45,10 +45,10 @@ LSTM, ou Long Short-Term Memory, est un type d'architecture de réseau de neuron
 8) *Modeling*
 9) *Evaluation*
 
-### How to use:
-Click the "open to Collab" button and follow the instructions on the Notebook.
+### Guide d'utilisation:
+Cliquez sur le bouton "Ouvrir dans Colab" et suivez les instructions sur le notebook.
 
-You can also clone the repository to your local machine using the following command:
+Vous pouvez également cloner le dépôt sur votre machine locale en utilisant la commande suivante :
 git clone https://github.com/RavenMorgan/Tweets-Sentiment-Analysis-.git
 
 
@@ -61,7 +61,7 @@ BERT, ou Bidirectional Encoder Representations from Transformers, est un modèle
 
 ### Overview : 
 
-This repository contains the code for a sentiment analysis model using BERT (Bidirectional Encoder Representations from Transformers). The model is trained on a dataset for sentiment classification.
+Ce dépôt contient le code pour un modèle d'analyse de sentiment utilisant BERT (Bidirectional Encoder Representations from Transformers). Le modèle est entraîné sur un ensemble de données pour la classification des sentiments.
 
 1) Data preparing 
 2) Tokenization
@@ -69,10 +69,10 @@ This repository contains the code for a sentiment analysis model using BERT (Bid
 4) Evaluation (accuracy = 0.97 , loss = 0.10)
 5) Interference / predictions
 
-### How to use:
-Click the "open to Collab" button and follow the instructions on the Notebook.
+### Guide d'utilisation:
+Cliquez sur le bouton "Ouvrir dans Colab" et suivez les instructions sur le notebook.
 
-You can also clone the repository to your local machine using the following command:
+Vous pouvez également cloner le dépôt sur votre machine locale en utilisant la commande suivante :
 git clone https://github.com/RavenMorgan/Tweets-Sentiment-Analysis-.git
 
 ## CONCLUSION

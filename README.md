@@ -87,6 +87,12 @@ Ce dépôt contient le code pour un modèle d'analyse de sentiment utilisant BER
 4) Evaluation (accuracy = 0.97 , loss = 0.10)
 5) Interference / predictions
 
+### Results:
+
+Confusion matrix
+
+![image](https://github.com/RavenMorgan/Tweets-Sentiment-Analysis-/assets/93053186/3e39a359-2c7b-4324-97c2-fcde1caae9c0)
+
 ### Guide d'utilisation:
 Cliquez sur le bouton "Ouvrir dans Colab" et suivez les instructions sur le notebook.
 
